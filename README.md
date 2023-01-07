@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/816965/38487336-1d193960-3c23-11e8-8da6-9575b0eac3e9.png)
 
-# JavaScript Terminal
+# A fork of JavaScript Terminal that tries to add links
 
 An open-source JavaScript terminal emulator library, that works in your browser and Node.js.
 
